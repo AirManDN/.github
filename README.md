@@ -1,11 +1,5 @@
-# Welcome to the AirManDN modding hub
+# Purpose of this repo
 
-Here you can find all my mods
+In this repo all organizational things like templates or other rules will be given. This repo also includes the welcome page
 
 ---
-
-## Status & Updates
-
-*   **Active:** I am currently working on this project.
-*   **Deprecated:** This mod will not get anymore updates.
-*   **Functional:** The mod is currently functional and works (given the right version).
